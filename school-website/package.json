@@ -1,0 +1,10 @@
+{
+  "name": "pioneer-academic-school",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pioneer Academic School website",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}

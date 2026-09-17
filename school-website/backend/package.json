@@ -1,0 +1,17 @@
+{
+  "name": "school-website-backend",
+  "version": "1.0.0",
+  "description": "School website API with Node.js + MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node server-demo.js",
+    "dev": "node server-demo.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0"
+  }
+}
